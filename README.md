@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a 4th Year Digital Engineering Student, Sirindhorn International Institute of Technology (SIIT), Thammasat University.
 --------------------------------------------------------------------------------------------------------------------------
 
-I have studied Python, HTML, CSS, JavaScript, React and SQL in my university courses. I am also interested and learning more about Blockchain and Smart Contract(Solidity) from online courses.
+I have studied Python, HTML, CSS, JavaScript, PHP, React and SQL in my university courses. I am also interested and learning more about Blockchain and Smart Contract(Solidity) from online courses.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [phanutchanat.non@gmail.com](mailto:phanutchanat.non@gmail.com)
