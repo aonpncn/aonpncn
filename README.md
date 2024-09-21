@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phanutchanat Nongya or you can call me Aon.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Phanutchanat Nongya or you can call me Aon.
 ===================================================================================================================================================================
 
 I'm a 4th Year Digital Engineering Student, Sirindhorn International Institute of Technology (SIIT), Thammasat University.
