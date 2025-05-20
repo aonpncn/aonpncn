@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Phanutchanat Nongya</h1>
-<h3 align="center">🎓 Recent graduate in Digital Engineering from SIIT, Thammasat University 🧠 Passionate about building real-world AI systems, full-stack web apps, and smart contracts.</h3>
+<h3>🎓 Recent graduate in Digital Engineering from SIIT, Thammasat University</h3>
+<h3>🧠 Passionate about building real-world AI systems, full-stack web apps, and smart contracts.</h3>
+
+<h3>🛠️ Tech Interests: </h3>
+
+* **Computer Vision & AI**: YOLOv8, ST-GCN, MediaPipe, OpenCV, PyTorch, Roboflow  
+
+* **Web Development**: FastAPI, React (Next.js), TypeScript, Tailwind CSS, HTML, CSS, JavaScript, REST API, MySQL, Firebase
+
+* **Blockchain**: Smart Contracts with Solidity
+
+* **Project Tools**: Figma, Canva 
+
+<h3>🌐 Links: </h3>
 
 - 🔗 Notion Portfolio [https://www.notion.so/1f9bd046590780198b20e0e3c0f4e870?pvs=4](https://www.notion.so/1f9bd046590780198b20e0e3c0f4e870?pvs=4)
 
@@ -7,7 +20,7 @@
 
 - 📫 How to reach me **phanutchanat.non@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
