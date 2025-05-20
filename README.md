@@ -33,11 +33,11 @@ Smart contract system using Solidity + IPFS for DevSecOps. Presented at IEEE KST
 
 ## 🌐 Links:
 
-- 🔗 Notion Portfolio [https://www.notion.so/1f9bd046590780198b20e0e3c0f4e870?pvs=4](https://www.notion.so/1f9bd046590780198b20e0e3c0f4e870?pvs=4)
+- 🔗 [Notion Portfolio](https://www.notion.so/1f9bd046590780198b20e0e3c0f4e870?pvs=4)
 
-- 💼 LinkedIn [https://www.linkedin.com/in/phanutchanat-nongya-bb8b9832b/](https://www.linkedin.com/in/phanutchanat-nongya-bb8b9832b/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/phanutchanat-nongya-bb8b9832b/)
 
-- 📫 How to reach me **phanutchanat.non@gmail.com**
+- 📫 **phanutchanat.non@gmail.com**
 
 
 
