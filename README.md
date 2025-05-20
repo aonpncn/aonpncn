@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Phanutchanat Nongya</h1>
+<h1>Hi 👋, I'm Phanutchanat Nongya</h1>
 <h3> 🔸 Recent graduate in Digital Engineering from SIIT, Thammasat University</h3>
 <h3> 🔸 Passionate about building real-world AI systems, full-stack web apps, and smart contracts</h3>
 
