@@ -18,6 +18,19 @@
 
 
 
+## 🚀 Notable Projects
+
+**🔫 Weapon & Behavior Detection System**  
+Real-time detection using YOLOv8 and ST-GCN, deployed with FastAPI + Firebase  
+🔗 [View in Notion](https://www.notion.so/)
+
+**🔐 Blockchain Access Control (Senior Project)**  
+Smart contract system using Solidity + IPFS for DevSecOps. Presented at IEEE KST 2025  
+🔗 [Project Details](https://www.notion.so/)
+
+
+
+
 ## 🌐 Links:
 
 - 🔗 Notion Portfolio [https://www.notion.so/1f9bd046590780198b20e0e3c0f4e870?pvs=4](https://www.notion.so/1f9bd046590780198b20e0e3c0f4e870?pvs=4)
