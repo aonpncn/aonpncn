@@ -22,18 +22,18 @@
 
 **🔫 Weapon & Behavior Detection System**  
 Real-time detection using YOLOv8 and ST-GCN, deployed with FastAPI + Firebase  
-🔗 [View in Notion](https://www.notion.so/)
+🔗 [View in Notion](https://www.notion.so/Weapon-Behavior-Detection-1f9bd04659078093bcf0f16fc02fa498)
 
 **🔐 Blockchain Access Control (Senior Project)**  
 Smart contract system using Solidity + IPFS for DevSecOps. Presented at IEEE KST 2025  
-🔗 [Project Details](https://www.notion.so/)
+🔗 [View in Notion](https://www.notion.so/Senior-Project-AC-DevChain-202bd04659078064b0e8e4878a0266dd)
 
 
 
 
 ## 🌐 Links:
 
-- 🔗 [Notion Portfolio](https://www.notion.so/1f9bd046590780198b20e0e3c0f4e870?pvs=4)
+- 🔗 [Notion Portfolio](https://www.notion.so/Phanutchanat-Nongya-1f9bd0465907800d97a6da1a95fe709b?pvs=4)
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/phanutchanat-nongya-bb8b9832b/)
 
